@@ -185,22 +185,6 @@ Este projeto cobre:
 
 ---
 
-## 📝 Como Usar em Entrevista
-
-### 30-Minute Pitch
-1. **(2 min)** Problema: Fraude, escala, trade-offs
-2. **(5 min)** Formulação: Matemática Bayesiana, função objetivo
-3. **(8 min)** Pipeline: Engenharia de dados, features, validação
-4. **(8 min)** Modelos: Baseline → SotA, trade-offs
-5. **(5 min)** Impacto: ROI, learnings, scale considerations
-6. **(2 min)** Próximos passos: Fairness, causal inference, multimodal
-
-### Perguntas que Você Pode Defender
-- "Como você evitaria data leakage?"
-- "Como garantir fairness across demographics?"
-- "Como fazer re-training automático sem drift?"
-- "Como explique decisões do modelo para compliance?"
-- "Como balancear recall vs. precisão em fraude?"
 
 ---
 
