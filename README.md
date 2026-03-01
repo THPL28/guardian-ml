@@ -201,13 +201,6 @@ Este projeto cobre:
 
 ---
 
-## 👨‍💼 Autor & Contexto
-
-**Objetivo**: Demonstrar senioridade técnica em fraude detection para entrevistas em Google, Meta, Amazon, Microsoft, Netflix.
-
-**Profundidade**: Cada seção é explorável em profundidade em entrevista.
-
----
 
 ## 📞 Suporte
 
